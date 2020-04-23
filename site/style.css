@@ -1,0 +1,13 @@
+article{
+	
+			font-family: impact;
+			font-style: bold;
+			font-weight:50;
+			text-align: center;
+
+}
+p{
+	font-family: papyrus;
+	font-style: normal;
+	overflow: scroll;
+}
